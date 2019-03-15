@@ -1,0 +1,9 @@
+.header {
+  position: fixed;
+  left: 20%;
+}
+.header .title {
+  position: absolute;
+  left: 45%;
+  color: white;
+}
